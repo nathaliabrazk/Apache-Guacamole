@@ -91,3 +91,22 @@ A partir do painel do Guacamole, o usuário pode selecionar uma conexão e acess
 
   
  **Redução de custos:** Sendo uma plataforma de código aberto (open-source), reduz gastos com licenças comerciais de software de acesso remoto.
+ 
+ ### ⚔️ Diferença entre VPN e o Apache Guacamole
+
+**O que é uma VPN?**
+
+**Rede Virtual Privada:** Cria uma extensão criptografada da sua rede local pela internet.
+
+**Funcionamento:** O seu computador inteiro entra na rede da empresa. Você ganha um endereço IP interno e pode acessar qualquer máquina como se estivesse fisicamente no escritório.
+
+**O que é o Apache Guacamole?**
+
+Ele funciona como um **gateway de acesso remoto (ou jump server)** baseado na web. A diferença principal é o modo como cada ferramenta conecta você a uma rede privada
+
+**Gateway Web:** É um intermediário que roda em um servidor central e é acessado direto pelo navegador.
+
+**Funcionamento:** Ele traduz protocolos de acesso remoto (como RDP, SSH e VNC) para o navegador usando **HTML5**.
+
+**Vantagem:** Você não instala nenhum programa ou aplicativo cliente na sua máquina. Você acessa apenas a aplicação web e interage com o computador remoto específico que foi liberado para você.
+ 
