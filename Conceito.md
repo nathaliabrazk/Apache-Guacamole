@@ -85,7 +85,7 @@ A partir do painel do Guacamole, o usuário pode selecionar uma conexão e acess
 
  **Segurança avançada:** Isola a rede interna e evita a exposição de portas públicas sensíveis, permitindo integração com Active Directory, LDAP, SSO e autenticação multifator.
  
-  **Suporte a múltiplos protocolos:** Conecta sistemas via RDP (Remote Desktop Protocol), 
+  **Suporte a múltiplos protocolos:** Conecta sistemas via RDP (Remote Desktop Protocol).
   
   **Auditoria e gravação:** Permite monitorar e gravar as sessões dos usuários para controle de conformidade e segurança da informação. 
 
